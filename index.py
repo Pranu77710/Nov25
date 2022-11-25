@@ -10,8 +10,8 @@ while z==0:
         a.append(i)
   factor(x)
   if len(a)>2:
-    print("The Number Is Composite.")
+    print("The Number", x, "Is Composite.")
   else:
-    print("The Number Is Prime.")
+    print("The Number", x,"Is Prime.")
 
   print()
