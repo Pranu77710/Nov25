@@ -14,4 +14,4 @@ while z==0:
   else:
     print("The Number", x,"Is Prime.")
 
-  print()
+  print("You Got The Answer!!!.")
